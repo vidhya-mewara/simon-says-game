@@ -1,2 +1,2 @@
-# simon-says-game
+# simon-say-game
 it's a game to challange your memory power
